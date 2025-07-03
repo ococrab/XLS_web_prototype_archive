@@ -1,9 +1,20 @@
-# XLS_web_prototype_archive
+# XLS Web Prototype Archive
 
-Here are different versions of interactive bilingual interactive website we have been working on.
+This repository contains various versions of an interactive bilingual website we've been developing.
 
-v1: https://codepen.io/ococrab/pen/pvJKoeL
-v2: https://codepen.io/ococrab/pen/wBaxLNJ
-v3: https://codepen.io/ococrab/pen/PwqyawJ
-v4: https://codepen.io/ococrab/pen/KwpbqYV
-v5: https://codepen.io/ococrab/pen/JodqLEV
+## Versions
+
+- **[Version 1](https://codepen.io/ococrab/pen/pvJKoeL)**  
+  Initial prototype with basic structure and interactivity.
+
+- **[Version 2](https://codepen.io/ococrab/pen/wBaxLNJ)**  
+  Enhanced styling improvements with distinct markup categories.
+
+- **[Version 3](https://codepen.io/ococrab/pen/PwqyawJ)**  
+  Enhanced features with url and pop-up windows.
+
+- **[Version 4](https://codepen.io/ococrab/pen/KwpbqYV)**  
+  Draft on bilingual toggle functions.
+
+- **[Version 5](https://codepen.io/ococrab/pen/JodqLEV)**  
+  Draft on bilingual website with line alignment functions.
