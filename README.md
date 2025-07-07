@@ -17,4 +17,11 @@ This repository contains various versions of an interactive bilingual website we
   Draft on bilingual toggle functions.
 
 - **[Version 5](https://codepen.io/ococrab/pen/JodqLEV)**  
-  Draft on bilingual website with line alignment functions.
+  Draft on bilingual functions with both language.
+
+- **[Version 6](https://codepen.io/ococrab/pen/QwbezeJ)**  
+  Draft on bilingual website with vertically layout.
+
+- **[Version 7](https://codepen.io/ococrab/pen/wBaVbqQ)**  
+  Draft on bilingual website with horizontal layout.
+  
