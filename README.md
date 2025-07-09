@@ -24,4 +24,6 @@ This repository contains various versions of an interactive bilingual website we
 
 - **[Version 7](https://codepen.io/ococrab/pen/wBaVbqQ)**  
   Draft on bilingual website with horizontal layout.
-  
+
+- **[Version 8](https://codepen.io/ococrab/pen/vENBxMg)**  
+  Draft on bilingual website with updated highlight functions.
